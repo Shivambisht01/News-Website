@@ -19,6 +19,12 @@ nav{
   background-color: rgb(162, 173, 174);
   padding: 9px;
 }
+
+nav h1:hover{
+  
+ 
+
+}
 nav input{
   width: 250px;
   text-decoration: none;
